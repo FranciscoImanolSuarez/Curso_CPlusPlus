@@ -8,6 +8,6 @@ int main() {
     cout << 3.14 << endl;
     cout << true << endl;
     cout << 'c' << endl;
-
+    cout << "Final de datos" << endl;
 return 0;
 }
